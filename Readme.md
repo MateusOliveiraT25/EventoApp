@@ -42,7 +42,6 @@ Este projeto é um sistema de console desenvolvido em Java com base no paradigma
 └── view/ # Interface
 └── Menu.java # Menu interativo
 📄 events.data # Dados persistidos (gerado automaticamente)
-
 ---
 
 ## 💾 Armazenamento de Dados
