@@ -32,17 +32,18 @@ Este projeto é um sistema de console desenvolvido em Java com base no paradigma
 ---
 
 ## 🏗️ Estrutura do Projeto
-📁 src/
-📄 Main.java (Ponto de entrada)
-📁 model/
-📄 Usuario.java (Classe de usuário)
-📄 Evento.java (Classe de evento)
-📁 data/
-📄 FileManager.java (Gerenciador de arquivos)
-📁 view/
-📄 Menu.java (Menu interativo)
-📄 events.data (Dados persistidos)
----
+
+<pre>
+📄 src/Main.java
+📁 src/model/
+  📄 Usuario.java
+  📄 Evento.java
+📁 src/data/
+  📄 FileManager.java
+📁 src/view/
+  📄 Menu.java
+📄 events.data
+</pre>
 
 ## 💾 Armazenamento de Dados
 
